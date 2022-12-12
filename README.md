@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hen Benoish
 - 👀 I’m interested in Coding (Duhh), Gadges, Gym, Basketball and well-known Udemy "addict".
 - 🌱 I’m currently learning Playwright & Robot Framework.
-- 💞️ I’m looking to collaborate on automation projects of any type in any programming language with any 
+- 💞️ I’m looking to collaborate on automation projects of any type in any programming language.
 - 📫 HenBenHen@gmail.com / www.linkedin.com/in/hen-benoish
